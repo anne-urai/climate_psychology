@@ -1,7 +1,8 @@
 # Climate psychology
 Collected examples and resources for incorporating climate crisis and action into the psychology curriculum.
 
-_Curated by Anne Urai and Tobias Heed. To contribute, simply fork and PR (or get in touch with us)._
+_Curated by Anne Urai and Tobias Heed. 
+To contribute, simply fork and PR (or get in touch with us)._
 
 ---
 

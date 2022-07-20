@@ -14,6 +14,7 @@ _Curated by Anne Urai and Tobias Heed. To contribute, simply fork and PR (or get
 ## Resources and examples for teaching general psychology
 - Social dynamics: behavioral norms change and tipping points
 - Default bias
-
+- Perception of risk and uncertainty
+- Temporal discounting
 
 ---

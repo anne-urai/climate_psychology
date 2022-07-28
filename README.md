@@ -11,7 +11,8 @@ tobias.heed AT plus.ac.at_
 - [TeachGreenPsych](https://www.teachgreenpsych.com/)
 - Elective by Clare Kelly: [psychology of the climate crisis](https://www.tcd.ie/trinity-electives/electives/psychology-climate-crisis/)
 - [The Climate Crisis](https://www.cambridge.org/cr/academic/subjects/earth-and-environmental-science/climatology-and-climate-change/climate-crisis-science-impacts-policy-psychology-justice-social-movements?format=PB), book by Adam Aron
-
+- https://osf.io/wk6a8/ Materials from Janet Swim, particularly strong on clinical (shared by Cameron Brick)
+- https://osf.io/eq87n I gave a talk for Karolinska about teaching resources, see slides from #60 (shared by Cameron Brick)
 
 ## Resources and examples for teaching general psychology and cognitive neuroscience
 ### social dynamics & communication

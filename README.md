@@ -10,6 +10,7 @@ tobias.heed AT plus.ac.at_
 ## Resources for teaching: psychology of the climate crisis
 - [TeachGreenPsych](https://www.teachgreenpsych.com/)
 - Elective by Clare Kelly: [psychology of the climate crisis](https://www.tcd.ie/trinity-electives/electives/psychology-climate-crisis/)
+- MSc elective by Anne Urai: https://anneurai.net/climate-psychology/
 - [The Climate Crisis](https://www.cambridge.org/cr/academic/subjects/earth-and-environmental-science/climatology-and-climate-change/climate-crisis-science-impacts-policy-psychology-justice-social-movements?format=PB), book by Adam Aron
 - https://osf.io/wk6a8/ Materials from Janet Swim, particularly strong on clinical (shared by Cameron Brick)
 - https://osf.io/eq87n I gave a talk for Karolinska about teaching resources, see slides from #60 (shared by Cameron Brick)
